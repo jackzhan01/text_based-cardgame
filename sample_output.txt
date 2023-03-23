@@ -1,0 +1,456 @@
+Game Start!! 
+player draws 4 cards
+player's hand card:
+0 \u26669 [Dodge]
+1 \u2663J [Strike]
+2 \u26659 [Something from nothing]
+3 \u2665Q [Peach]
+There are 152 cards left in the pile！
+
+computer draws 4 cards
+There are 148 cards left in the pile！
+
+-----PLAYER ROUND BEGIN-----
+-----JUDGE PHASE-----
+-----DRAW PHASE-----
+player draws 2 cards
+player's hand cards
+
+0:\u26669 [Dodge]
+1:\u2663J [Strike]
+2:\u26659 [Something from nothing]
+3:\u2665Q [Peach]
+4:\u26605 [Shadowrunner(+1)]
+5:\u26656 [Contentment]
+-----PLAY PHASE-----
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2663J [Strike]
+2 \u26659 [Something from nothing]
+3 \u2665Q [Peach]
+4 \u26605 [Shadowrunner(+1)]
+5 \u26656 [Contentment]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 5 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+Please choose the target. 
+Enter the No. and press Enter. 
+0 Computer 
+player use to the computer \u26656 [Contentment]
+
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2663J [Strike]
+2 \u26659 [Something from nothing]
+3 \u2665Q [Peach]
+4 \u26605 [Shadowrunner(+1)]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 5 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+player put on\u26605 [Shadowrunner(+1)]
+
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2663J [Strike]
+2 \u26659 [Something from nothing]
+3 \u2665Q [Peach]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 5 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  	
+player use to yourself \u26659 [Something from nothing]
+
+player draws 2 cards
+player's hand cards
+
+0:\u26669 [Dodge]
+1:\u2663J [Strike]
+2:\u2665Q [Peach]
+3:\u26638 [Strike]
+4:\u26653 [Peach]
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2663J [Strike]
+2 \u2665Q [Peach]
+3 \u26638 [Strike]
+4 \u26653 [Peach]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 5 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+Please choose the target for Strike. 
+Enter the No. and press Enter. 
+0 Computer 
+player use to the computer \u2663J [Strike]
+
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2665Q [Peach]
+2 \u26638 [Strike]
+3 \u26653 [Peach]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 4 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase 
+-----FLOD PHASE-----
+-----COMPUTER ROUND BEGIN-----
+-----JUDGE PHASE-----
+1 cards to be judged. 
+contentment judging
+Judgement card is: \u2665K [Yellow Flash(+1)]
+JUDGEMENT FAILED !
+-----DRAW PHASE-----
+computer draws 2 cards
+-----PLAY PHASE-----
+computer use \u26652 [Fire Attack]
+
+Enter the number of the card you wish to display (0~3): 
+The user chose the card \u2665Q [Peach]
+The computer discarded the card \u2665K [Dodge]
+and caused 1 damage to you.
+Player's HP: 4 / 5     Computer's HP: 4 / 5
+-----Flod PHASE-----
+The computer discarded \u2665K [Dodge]
+
+-----PLAYER ROUND BEGIN-----
+-----JUDGE PHASE-----
+-----DRAW PHASE-----
+player draws 2 cards
+player's hand cards
+
+0:\u26669 [Dodge]
+1:\u2665Q [Peach]
+2:\u26638 [Strike]
+3:\u26653 [Peach]
+4:\u2663A [Silver Lion Helmet]
+5:\u2663K [Arrow Barrage]
+-----PLAY PHASE-----
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2665Q [Peach]
+2 \u26638 [Strike]
+3 \u26653 [Peach]
+4 \u2663A [Silver Lion Helmet]
+5 \u2663K [Arrow Barrage]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 4 / 5     Computer's HP: 4 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+player put on\u2663A [Silver Lion Helmet]
+
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2665Q [Peach]
+2 \u26638 [Strike]
+3 \u26653 [Peach]
+4 \u2663K [Arrow Barrage]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: \u2663A [Silver Lion Helmet]
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 4 / 5     Computer's HP: 4 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+player use \u2663K [Arrow Barrage]
+
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2665Q [Peach]
+2 \u26638 [Strike]
+3 \u26653 [Peach]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: \u2663A [Silver Lion Helmet]
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 4 / 5     Computer's HP: 3 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+player use to yourself \u26653 [Peach]
+
+player's strength+1
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2665Q [Peach]
+2 \u26638 [Strike]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: \u2663A [Silver Lion Helmet]
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 3 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+Please choose the target for Strike. 
+Enter the No. and press Enter. 
+0 Computer 
+player use to the computer \u26638 [Strike]
+
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2665Q [Peach]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: \u2663A [Silver Lion Helmet]
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 2 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+-----FLOD PHASE-----
+-----COMPUTER ROUND BEGIN-----
+-----JUDGE PHASE-----
+-----DRAW PHASE-----
+computer draws 2 cards
+-----PLAY PHASE-----
+-----Flod PHASE-----
+The computer discarded \u2663K [Strike]
+
+The computer discarded \u26664 [Strike]
+
+The computer discarded \u26636 [Strike]
+
+The computer discarded \u26657 [Strike]
+
+-----PLAYER ROUND BEGIN-----
+-----JUDGE PHASE-----
+-----DRAW PHASE-----
+player draws 2 cards
+player's hand cards
+
+0:\u26669 [Dodge]
+1:\u2665Q [Peach]
+2:\u26652 [Dodge]
+3:\u26639 [Strike]
+-----PLAY PHASE-----
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2665Q [Peach]
+2 \u26652 [Dodge]
+3 \u26639 [Strike]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: \u2663A [Silver Lion Helmet]
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 2 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+Please choose the target for Strike. 
+Enter the No. and press Enter. 
+0 Computer 
+player use to the computer \u26639 [Strike]
+
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2665Q [Peach]
+2 \u26652 [Dodge]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: \u2663A [Silver Lion Helmet]
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 1 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+-----FLOD PHASE-----
+-----COMPUTER ROUND BEGIN-----
+-----JUDGE PHASE-----
+-----DRAW PHASE-----
+computer draws 2 cards
+-----PLAY PHASE-----
+computer use \u26663 [Snatch]
+
+The computer snatched your card \u2663A [Silver Lion Helmet]
+
+computer put on\u2663A [Silver Lion Helmet]
+
+-----Flod PHASE-----
+The computer discarded \u26666 [Strike]
+
+The computer discarded \u26668 [Dodge]
+
+-----PLAYER ROUND BEGIN-----
+-----JUDGE PHASE-----
+-----DRAW PHASE-----
+player draws 2 cards
+player's hand cards
+
+0:\u26669 [Dodge]
+1:\u2665Q [Peach]
+2:\u26652 [Dodge]
+3:\u26603 [Dismantle]
+4:\u2666K [Strike]
+-----PLAY PHASE-----
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2665Q [Peach]
+2 \u26652 [Dodge]
+3 \u26603 [Dismantle]
+4 \u2666K [Strike]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: \u2663A [Silver Lion Helmet]
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 1 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+Please choose the target for Strike. 
+Enter the No. and press Enter. 
+0 Computer 
+player use to the computer \u2666K [Strike]
+
+Player's hand cards:
+0 \u26669 [Dodge]
+1 \u2665Q [Peach]
+2 \u26652 [Dodge]
+3 \u26603 [Dismantle]
+
+Player's equipments:
+0 Weapons: EMPTY
+1 Armors: EMPTY
+2 Attack Mount: EMPTY
+3 Defense Mount: \u26605 [Shadowrunner(+1)]
+
+Computer's equipments:
+0 Weapons: EMPTY
+1 Armors: \u2663A [Silver Lion Helmet]
+2 Attack Mount: EMPTY
+3 Defense Mount: EMPTY
+
+Player's HP: 5 / 5     Computer's HP: 0 / 5
+Enter card number to play that card then press enter 
+ enter 229 to end play phase  
+You win!! congratulation!!
